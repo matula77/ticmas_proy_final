@@ -1,0 +1,137 @@
+header{
+
+    background-color: aqua;
+    text-align: center;
+}
+body{
+    background-color: rgb(52, 183, 140);
+}
+.div_btn{
+
+    margin: auto;
+    align-items: center;
+
+}
+.info{
+    background-color: bisque;
+    color:black; 
+    font-size: 12;
+     
+
+}
+.div li {
+  
+        display: inline-block;
+        font-size: 20px;
+        padding: 20px;
+  
+}
+
+#Datos_per{
+    border: 1px dashed black;
+    padding: 5px 25px 5px 25px;
+    
+    height: 150px;
+    text-align: center;
+    
+
+
+}
+#Apt_per{   
+    border: 1px solid black;
+    
+
+}
+h2{
+    padding-left: 5px;
+}
+button{
+    background-color: rgb(90, 146, 209);
+    border-radius: 15%;
+    
+}
+
+.image{
+    border: 1px solid black;
+    float: left;
+    border-radius: 25%;
+    width: 100px;
+    height: 100px;
+    padding: 5px 5px 5px 5px;
+
+    
+    
+
+}
+span{
+display: inline;
+padding:3%  8%;
+overflow: auto;
+height: auto;
+
+}
+.div2 {
+    display: inline;
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    margin-right: 10px;
+    margin-left: 50px;
+    background-color: lightblue;
+  }
+.div3 {
+    border: 1px solid black;
+    margin: 25px 50px 75px 100px;
+    background-color: lightblue;
+  }
+.span.a {
+    display: inline; /* the default for span */
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 1px solid blue;  
+    background-color: yellow; 
+  }
+  
+.span.b {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 1px solid blue;    
+    background-color: pink; 
+  }
+  
+.span.c {
+    display: inline;
+    overflow: auto;
+    
+    padding: 5px;
+    border: 1px solid blue;    
+    background-color: rgb(18, 83, 121); 
+  }
+.nav{
+    align-content: center;
+    text-align: center;
+    display: inline;
+    padding: 25px 2px 25px 2px;
+    overflow: auto;
+}  
+.nav.btn1{
+    display: inline;
+    font-size: 5px;
+    padding: 20px;
+    border-radius: 5%;
+    background-color: cornflowerblue;
+  }
+  .btn1:hover{
+    background-color:rgb(147, 33, 117) ;
+}
+#info{
+    
+    text-align: center;
+    border: 1px dashed black;
+   
+    
+
+}
